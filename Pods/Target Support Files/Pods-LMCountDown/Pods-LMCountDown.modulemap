@@ -1,0 +1,6 @@
+framework module Pods_LMCountDown {
+  umbrella header "Pods-LMCountDown-umbrella.h"
+
+  export *
+  module * { export * }
+}
